@@ -1,6 +1,6 @@
 # Hi there 👋
 💬 Ask me about ...
-![banner](img/github-header-image.png)
+![banner](img/github-header-1.png)
 
 
 <!--
