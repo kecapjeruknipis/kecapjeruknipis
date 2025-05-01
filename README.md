@@ -4,7 +4,7 @@
 💬 Ask me about ...
 
 <img src="https://img.shields.io/badge/freebsd-AB2B28?style=for-the-badge&logo=freebsd&logoColor=white" />
-<img src="{https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white}" />
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 
 <!--
 **kecapjeruknipis/kecapjeruknipis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
